@@ -1,0 +1,163 @@
+{
+  "admins": {
+    "leo@al": {
+      "name": "leo",
+      "password": "asdasfas",
+      "store": {
+        "presentations": [
+          {
+            "name": "genghis khan",
+            "thumbnail": null,
+            "description": null,
+            "no_slides": 0,
+            "slides": [
+              {
+                "id": "genghis khan-715359-slide-794921",
+                "content": "this is slide 1",
+                "elements": [
+                  {
+                    "elementId": "genghis khan-715359-0-text-813554",
+                    "type": "text",
+                    "content": "yall",
+                    "width": "50",
+                    "height": "50",
+                    "fontSize": "1",
+                    "textColor": "#128121",
+                    "left": "0",
+                    "top": "0"
+                  }
+                ]
+              }
+            ],
+            "id": "genghis khan-715359"
+          }
+        ]
+      },
+      "sessionActive": false
+    },
+    "leo@l": {
+      "name": "Leo",
+      "password": "asd",
+      "store": {
+        "presentations": [
+          {
+            "name": "gjgjgjgjg",
+            "thumbnail": null,
+            "description": null,
+            "no_slides": 6,
+            "slides": [
+              {
+                "id": "gjgjgjgjg-563454-slide-609654",
+                "content": "this is slide 2",
+                "elements": [
+                  {
+                    "elementId": "gjgjgjgjg-563454-0-text-633716",
+                    "type": "text",
+                    "content": "ginggan",
+                    "width": "50",
+                    "height": "50",
+                    "fontSize": "2",
+                    "textColor": "#12412F",
+                    "left": "64.070556640625",
+                    "top": "37.888214111328125"
+                  },
+                  {
+                    "elementId": "gjgjgjgjg-563454-0-code-618285",
+                    "type": "code",
+                    "content": "print('hello world')",
+                    "lang": "python",
+                    "width": "25",
+                    "height": "25",
+                    "fontSize": "1",
+                    "left": "512",
+                    "top": "35"
+                  },
+                  {
+                    "elementId": "gjgjgjgjg-563454-0-video-212369",
+                    "type": "video",
+                    "url": "https://www.youtube.com/embed/_4g9z4ELSj0?si=-2SlbU-P045Eq-1-",
+                    "width": "40",
+                    "height": "40",
+                    "left": "524",
+                    "top": "205",
+                    "auto": false
+                  }
+                ]
+              },
+              {
+                "id": "gjgjgjgjg-563454-slide-872948",
+                "content": "this is slide 3",
+                "elements": []
+              },
+              {
+                "id": "gjgjgjgjg-563454-slide-754513",
+                "content": "this is slide 4",
+                "elements": []
+              },
+              {
+                "id": "gjgjgjgjg-563454-slide-210711",
+                "content": "this is slide 5",
+                "elements": []
+              },
+              {
+                "id": "gjgjgjgjg-563454-slide-128163",
+                "content": "this is slide 5",
+                "elements": []
+              },
+              {
+                "id": "gjgjgjgjg-563454-slide-850512",
+                "content": "this is slide 6",
+                "elements": []
+              }
+            ],
+            "id": "gjgjgjgjg-563454"
+          },
+          {
+            "name": "gigiga",
+            "thumbnail": null,
+            "description": null,
+            "no_slides": 2,
+            "slides": [
+              {
+                "id": "gigiga-293410-slide-392037",
+                "content": "this is slide 1",
+                "elements": [
+                  {
+                    "elementId": "gigiga-293410-0-code-756780",
+                    "type": "code",
+                    "content": "for (let i = 0; i < 5; i++) {\n    console.log(i);\n}",
+                    "lang": "javascript",
+                    "width": "52",
+                    "height": "52",
+                    "fontSize": "1",
+                    "left": "360",
+                    "top": "192"
+                  }
+                ]
+              },
+              {
+                "id": "gigiga-293410-slide-482035",
+                "content": "this is slide 2",
+                "elements": []
+              }
+            ],
+            "id": "gigiga-293410"
+          }
+        ]
+      },
+      "sessionActive": false
+    },
+    "mam2@a": {
+      "name": "mam2",
+      "password": "asd",
+      "store": {},
+      "sessionActive": false
+    },
+    "mam1@a": {
+      "name": "mam",
+      "password": "asd",
+      "store": {},
+      "sessionActive": false
+    }
+  }
+}
