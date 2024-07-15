@@ -1,4 +1,4 @@
-ReactJS: Presto
+ReactJS: Presentation Tool
 
 ### Background & Motivation
 
